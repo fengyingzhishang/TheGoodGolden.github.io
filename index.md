@@ -27,3 +27,6 @@ IP
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+```
+### 停下来！你个怪物！这里行不通了！请返回最新目录！[Go！]()
