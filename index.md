@@ -1,15 +1,18 @@
-## Welcome to GitHub Pages
+## 欢迎你来到美好金色服务器（TGG）！
 
-You can use the [editor on GitHub](https://github.com/fengyingzhishang/TheGoodGolden.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###这里是新的世界！
+你可以从本网站来到服主的Github！[这里进入](https://github.com/fengyingzhishang)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+什么？你要立马玩？
+OK，接下来为大家提供服务器地址！
+（特别注释：本网站不经常更新，服务器地址可能随时更新！请关注QQ群，掌握最新情况！）
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+在这里看IP！
 
-```markdown
-Syntax highlighted code block
+```IP
+***********
 
 # Header 1
 ## Header 2
